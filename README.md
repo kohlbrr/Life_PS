@@ -1,4 +1,4 @@
-# PS_life
+# Life_PS
 PowerShell implementation of Conway's Game of Life
 ---
 Since I was interested in Conway's Game of Life, I thought it would be a fun idea to create
